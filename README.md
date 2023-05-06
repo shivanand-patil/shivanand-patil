@@ -4,7 +4,7 @@ I am a 3rd Year CSE student  <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 - 🔭 I’m currently learning Javascript, Cloud and Devops
 - ⚡ I like to solve DSA problems and read tech articles
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Himan-blue?style=flat&logo=Linkedin&logoColor=white)](https://https://https://www.linkedin.com/in/shivanand-patil-0333751a4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B82q4yFicRjGBaycWmkRsSw%3D%3D)
+- 📫 How to reach me: &nbsp; [![twitter Badge](https://img.shields.io/badge/-sayhi-blue?style=flat&logo=Twitter&logoColor=white)](https://https://https://https://twitter.com/survivordev99)
 
 
 
