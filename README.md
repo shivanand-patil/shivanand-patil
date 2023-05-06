@@ -4,7 +4,6 @@ I am a 3rd Year CSE student  <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 - 🔭 I’m currently learning Javascript, Cloud and Devops
 - ⚡ I like to solve DSA problems and read tech articles
-- 📫 How to reach me: &nbsp; [![twitter Badge](https://img.shields.io/badge/-sayhi-blue?style=flat&logo=Twitter&logoColor=white)](https://https://https://https://linkedin.com/in/shivanand-patil-0333751a4)
 
 
 
