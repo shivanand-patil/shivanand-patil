@@ -13,4 +13,5 @@ I am a 3rd Year CSE student  <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivanand-patil&hide=issues&show_icons=true&hide_border=true&theme=github_dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=shivanand-patil&theme=dark&border_radius=4.7)](https://git.io/streak-stats)
 ---
