@@ -16,4 +16,4 @@ I am a 3rd Year CSE student  <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=shivanand-patil&theme=dark&border_radius=4.7)](https://git.io/streak-stats)
 ---
-[![shivanand-patil's GitHub | Stats](https://stats.quine.sh/shivanand-patil/github?theme=light)](https://quine.sh)
+[![shivanand-patil's GitHub | Stats](https://stats.quine.sh/shivanand-patil/github?theme=dark)](https://quine.sh)
