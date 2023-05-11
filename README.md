@@ -8,7 +8,7 @@ I am a 3rd Year CSE student  <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,python,git,r,scala,spark&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,python,git,r,scala,spark,github,docker,yaml,kubernetes&perline=8)](https://skillicons.dev)
 
 
 
