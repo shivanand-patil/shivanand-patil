@@ -3,7 +3,7 @@
 I am a 3rd Year CSE student  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Bengaluru, India.
 
 - 🔭 I’m currently learning Javascript, Cloud and Devops
-- ⚡ I like to solve DSA problems and read tech articles
+- ⚡ I like to solve DSA problems and read tech articles.
 
 
 
