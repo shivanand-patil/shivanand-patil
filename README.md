@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shivanand Patil</h1>
+<h1 align="center">Hi 👋, I'm Shivanand Patil </h1>
 <h3 align="center">Motivated CSE student actively seeking opportunities. Currently learning full stack also passion for technology. Eager to contribute and learn.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivanand-patil&label=Profile%20views&color=0e75b6&style=flat" alt="shivanand-patil" /> </p>
