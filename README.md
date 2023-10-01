@@ -9,15 +9,13 @@
 
 - 🌱 I’m currently learning **Cloud Computing, Terraform, Automation Tools**
 
-- 👨‍💻 All of my projects are available at [shivanandpatil.co](shivanandpatil.co)
+- 👨‍💻 My website [shivanandpatil.co](shivanandpatil.co)
 
 - 📝 I regularly write articles on [blog.shivanandpatil.co](blog.shivanandpatil.co)
 
 - 💬 Ask me about **Cloud, Linux, Networks**
 
 - 📫 How to reach me **shivanandpatil963@gmail.com**
-
-- ⚡ Fun fact **I think Micheal Scott and Jake Peralta are the sa(me) character**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
