@@ -11,7 +11,7 @@
 
 - 👨‍💻 My website [shivanandpatil.co](shivanandpatil.co)
 
-- 📝 I regularly write articles on [blog.shivanandpatil.co](blog.shivanandpatil.co)
+- 📝 I write articles on [blog.shivanandpatil.co](blog.shivanandpatil.co)
 
 - 💬 Ask me about **Cloud, Linux, Networks**
 
